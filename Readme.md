@@ -26,22 +26,13 @@ google-generativeai: To interact with Google Vertex AI.
 
 Setup and Deployment
 Clone the repository:
-bash
-Copy
-Edit
 git clone https://github.com/your-username/vertex-ai-gemini-vision.git
 cd vertex-ai-gemini-vision
 
 Install the dependencies:
-bash
-Copy
-Edit
 pip install -r requirements.txt
 
 Run the application locally:
-bash
-Copy
-Edit
 streamlit run app.py
 
 Deploy the application on Streamlit Community Cloud or other hosting platforms for public use.
@@ -51,7 +42,6 @@ Visual content analysis.
 AI-assisted responses for uploaded images.
 Building interactive Generative AI demos for educational or commercial purposes.
 Screenshots
-(Optional: Add screenshots or GIFs of your app interface.)
 
 Future Enhancements
 Add support for multiple file types (e.g., PDFs, JPEGs).
